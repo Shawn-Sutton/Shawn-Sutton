@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Shawn Sutton GitHub Banner" style="width:100%; height:auto;" /> 
+<img src="Banner.png" alt="Shawn Sutton GitHub Banner" style="width:100%; height:auto;" /> 
 
 # 👨‍💻 Shawn C. Sutton — Aspiring IT Support Specialist
 
