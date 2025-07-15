@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Shawn Sutton GitHub Banner" width="100%" />
+
 # 👨‍💻 Shawn C. Sutton — Aspiring IT Support Specialist
 
 Hi there! I'm Shawn, a technical operations professional pivoting into IT Support after a decade leading logistics, infrastructure safety, and system optimization.
