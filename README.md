@@ -21,7 +21,7 @@ My background includes hands-on work with platforms like **AS400**, **McLeod**, 
 
 ## 📁 Featured Repositories
 
-### 📌 [PC Troubleshooting Toolkit].(https://github.com/Shawn-Sutton/PC-Troubleshooting-Toolkit)
+### 📌 [PC Troubleshooting Toolkit](https://github.com/Shawn-Sutton/PC-Troubleshooting-Toolkit)
 A PowerShell-based help desk utility for automating frequent Tier 1 fixes like DNS flush, printer spooler restart, and network diagnostics.
 
 ### 📌 [Active Directory Portfolio](https://github.com/Shawn-Sutton/ActiveDirectory-Portfolio)
