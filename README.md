@@ -36,8 +36,8 @@ Scripts for creating and managing users, groups, and OU organization—all vital
 🔹 Support Analyst | Technical Support Advisor  
 
 If you're hiring or want to collaborate—let's connect!  
-📬 [shawncsutton@gmail.com](mailto:shawncsutton@gmail.com)  
-🔗 [LinkedIn Profile](#)
+📬 [shawncsutton@gmail.com](mailto:shawnchristophersutton@gmail.com)  
+🔗 [LinkedIn Profile](www.linkedin.com/in/shawn-sutton-438802375)
 
 ---
 
