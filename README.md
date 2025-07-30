@@ -39,6 +39,11 @@ If you're hiring or want to collaborate—let's connect!
 📬 [shawncsutton@gmail.com](mailto:shawnchristophersutton@gmail.com)  
 🔗 [LinkedIn Profile](www.linkedin.com/in/shawn-sutton-438802375)
 
+## 📄 Resume
+
+You can view or download my resume here:  
+[Shawn Sutton Resume (PDF)](https://github.com/Shawn-Sutton/Shawn-Sutton/blob/main/Shawn_Sutton_Resume.pdf)
+
 ---
 
 Thanks for stopping by—and don’t forget to check out my projects to see where I’m headed next! 🚀
